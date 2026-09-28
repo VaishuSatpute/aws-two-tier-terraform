@@ -54,7 +54,3 @@ Credentials and passwords should be supplied through secure variables or secret-
 ## Deployment Status
 
 This is an infrastructure-as-code learning/practice repository. No AWS deployment is claimed because the infrastructure has not been applied to a live AWS account.
-
-## Source / Attribution
-
-The architecture and learning material were studied from the DevOps-Projects community repository and adapted for practice.
