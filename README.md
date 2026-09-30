@@ -17,10 +17,7 @@ This project demonstrates a **Two-Tier architecture on AWS** using **Terraform**
 
 ---
 
-## 📖 Step-by-Step Guide  
-
-📌 **Read the full tutorial with screenshots**:  
-[Deploy Two-Tier Architecture on AWS using Terraform](https://blog.prodevopsguytech.com/deploy-two-tier-architecture-on-aws-using-terraform)  
+## 📖 Step-by-Step Deploy 
 
 ---
 
@@ -35,8 +32,8 @@ This project demonstrates a **Two-Tier architecture on AWS** using **Terraform**
 ### 1️⃣ Clone the Repository  
 
 ```bash
-git clone https://github.com/NotHarshhaa/DevOps-Projects
-cd DevOps-Projects/DevOps-Project-11/
+git clone https://github.com/VaishuSatpute
+cd DevOps-Projects/aws-two-tier-terraform
 ```  
 
 ### 2️⃣ Configure Variables
@@ -97,3 +94,4 @@ terraform destroy -var-file=variables.tfvars --auto-approve
 ✅ **Amazon CloudFront (CDN)** – Faster content delivery worldwide  
 ✅ **SSL/TLS Encryption** – Secure communication with ACM  
 
+<img width="736" height="387" alt="image" src="https://github.com/user-attachments/assets/187f9e2d-c82a-46d7-8745-b510e94c16cf" />
